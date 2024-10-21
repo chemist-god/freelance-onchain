@@ -123,7 +123,7 @@ To get started with FreelanceChain locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/chemist-god/FreelanceChain.git
+   git clone https://github.com/chemist-god/freelance-onchain.git
    cd FreelanceChain
    ```
 
