@@ -1,0 +1,61 @@
+#intro{
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 87rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.bg{
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    object-fit: cover;
+    top: 2rem;
+    height: 80vh;
+}
+
+.introContent{
+    height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.freelance{
+    font-weight: 800;
+    font-size: 4rem;
+}
+#chain{
+    margin: 0;
+    padding: 0;
+
+}
+
+.message{
+    font-size: 1.9rem;
+    font-weight: 100;
+}
+
+.sign-up{
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 2rem;
+    background: #6545cd;
+    color: white;
+    margin-top: 2rem;
+    cursor: pointer;
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+.secure{
+    font-weight: 400;
+    font-size: 2.5rem;
+    margin-top: 2rem;
+
+}
